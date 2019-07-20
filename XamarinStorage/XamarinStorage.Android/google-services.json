@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "351092425048",
+    "firebase_url": "https://xamfirebase-910d9.firebaseio.com",
+    "project_id": "xamfirebase-910d9",
+    "storage_bucket": "xamfirebase-910d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351092425048:android:6d86fd1d77e01aad",
+        "android_client_info": {
+          "package_name": "com.companyname.XamarinStorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351092425048-caobierlles2gc3p7lbi47l90j0ia4b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAilGO8Rm7YJLxX1DP1n6IPnd_L2T8I0CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351092425048-caobierlles2gc3p7lbi47l90j0ia4b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
